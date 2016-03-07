@@ -3,3 +3,4 @@ E-mail & DNS
 Homework#1
 
 	E-mail is the method of exchanging digital messages between one or more recipients.  Email operates between networks.  There have been different systems, but todays system is based on a store-and-forward model.  Email servers accept, forward, deliver, and store messages.  E-mails consist of 3 components; the message envelope, the message header, and the message body.  DNS, or Domain Name System(or Server),  is a hierarchical distributed naming system for computers, services,  or any other resource connected to the internet.  DNS is the system of pointing a service, on an IP address, (i.e. 184.54.90.21) to  http://www.website.com . Email and DNS are core elements of the Internet.
+#
